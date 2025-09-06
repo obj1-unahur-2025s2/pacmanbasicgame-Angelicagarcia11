@@ -4,15 +4,30 @@ import example.*
 program pacmanGame {
 	
 	// límites del juego
-	game.width(14)
-	game.height(8)
+	game.width(102.4)
+	game.height(60)
+	game.cellSize(10)
 	
 	// fondo
 	game.boardGround("pacmanBackground.jpg")
 	
 	// personaje principal
-	game.addVisualCharacter(pacman)
-	
+
+	game.addVisual(pacman) 	//agrega un objeto visual al juego, addVisualCharacter es para agregar un personaje que se mueve con flechas pero solo puede ser 1
+					//esto es para que el personaje se mueva con w, a, d, s
+	keyboard.w().onPressDo({pacman.position(pacman.position().up(1))})
+	keyboard.a().onPressDo({pacman.position(pacman.position().left(1))})
+	keyboard.d().onPressDo({pacman.position(pacman.position().right(1))})
+	keyboard.s().onPressDo({pacman.position(pacman.position().down(1))})
+
+	keyboard.space().onPressDo({pacman.cambiarSkin("steve.png")}) //para que el personaje cambie de skin con la barra espaciadora
+	   																//addVisualItem es para agregar un objeto que no se mueve, como una moneda o un obstáculo
+	   																 //addVisualEnemy es para agregar un enemigo
+
+
+
+
+
 	// que arranque el juego!
 	game.start()
 	
