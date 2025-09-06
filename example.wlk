@@ -24,3 +24,4 @@ class Rival {
 
 	method position() = game.at(numero + 1, numero + 1)
 }
+

@@ -31,6 +31,10 @@ program pacmanGame {
 		})
 	}
 	
+
+
+
+
 	// que arranque el juego!
 	game.start()
 	

@@ -277,3 +277,5 @@
 {"level":"info","message":"onRequest - STRONG_FILES_CHANGED:/home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame/videos/demo.gif","timestamp":"2024-05-24T00:31:26.245Z"}
 {"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame","timestamp":"2024-05-24T00:31:26.421Z"}
 {"level":"info","message":"Removing diagnostics from /home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame/videos/demo.gif","timestamp":"2024-05-24T00:31:26.557Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpgmProgram.pacmanGame\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\bella\\OneDrive\\Documentos\\UNAHUR\\OBJETOS 1\\semana 4\\pacman\\pacmanbasicgame-Angelicagarcia11\u001b[39m\u001b[23m","ok":true,"timeElapsed":782,"timestamp":"2025-09-06T18:39:29.101Z"}
+{"exitCode":0,"level":"info","message":"👾 Game executed pgmProgram.pacmanGame on c:\\Users\\bella\\OneDrive\\Documentos\\UNAHUR\\OBJETOS 1\\semana 4\\pacman\\pacmanbasicgame-Angelicagarcia11","timeElapsed":20836,"timestamp":"2025-09-06T18:39:49.153Z"}
