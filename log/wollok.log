@@ -8,3 +8,16 @@
 {"level":"info","message":"onRequest - WORKSPACE_URI:file:///home/dodain/workspace/wollok-dev/wollok-workspace/migracion-proyectos/pacmanBasicGame","timestamp":"2024-05-24T02:07:10.633Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpgmProgram.pacmanGame\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\bella\\OneDrive\\Documentos\\UNAHUR\\OBJETOS 1\\semana 4\\pacman\\pacmanbasicgame-Angelicagarcia11\u001b[39m\u001b[23m","ok":true,"timeElapsed":758,"timestamp":"2025-09-06T18:43:00.304Z"}
 {"exitCode":0,"level":"info","message":"👾 Game executed pgmProgram.pacmanGame on c:\\Users\\bella\\OneDrive\\Documentos\\UNAHUR\\OBJETOS 1\\semana 4\\pacman\\pacmanbasicgame-Angelicagarcia11","timeElapsed":26742,"timestamp":"2025-09-06T18:43:26.284Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":389,"timestamp":"2025-09-08T13:46:32.636Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":267,"timestamp":"2025-09-08T13:46:32.909Z"}
+{"level":"info","message":"⌛ Validating example.wlk","timeElapsed":635,"timestamp":"2025-09-08T13:46:34.012Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":214,"timestamp":"2025-09-08T13:46:34.234Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":260,"timestamp":"2025-09-08T13:46:34.531Z"}
+{"level":"info","message":"⌛ Validating example.wlk","timeElapsed":474,"timestamp":"2025-09-08T13:46:35.032Z"}
+{"level":"info","message":"⌛ Validating pgmProgram.wpgm","timeElapsed":378,"timestamp":"2025-09-08T13:46:35.411Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":360,"timestamp":"2025-09-08T13:46:46.053Z"}
+{"level":"info","message":"⌛ Validating example.wlk","timeElapsed":306,"timestamp":"2025-09-08T13:46:47.240Z"}
+{"level":"info","message":"⌛ Validating pgmProgram.wpgm","timeElapsed":280,"timestamp":"2025-09-08T13:46:47.521Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":193,"timestamp":"2025-09-08T13:47:12.175Z"}
+{"level":"info","message":"⌛ Validating example.wlk","timeElapsed":190,"timestamp":"2025-09-08T13:47:12.375Z"}
+{"level":"info","message":"⌛ Validating pgmProgram.wpgm","timeElapsed":149,"timestamp":"2025-09-08T13:47:12.524Z"}
